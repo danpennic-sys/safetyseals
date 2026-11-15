@@ -1,0 +1,30 @@
+{
+  "type": "safety_inspection",
+  "job_id": "JOB-2026-042",
+  "site": "Site Alpha — Springfield, MO",
+  "inspection_type": "daily_pre_task",
+  "inspector": "Operator A",
+  "inspected_at": "2026-11-15T07:30:00Z",
+  "area": "Scaffolding — Building B",
+  "findings": [
+    {
+      "item": "Guardrails",
+      "status": "deficient",
+      "severity": "high",
+      "description": "Missing mid-rail on east side of scaffold level 2",
+      "corrective_action": "Install mid-rail before work resumes. Tagged out."
+    },
+    {
+      "item": "Fall protection",
+      "status": "compliant",
+      "severity": "n/a",
+      "description": "Harnesses and lanyards available and inspected",
+      "corrective_action": "None"
+    }
+  ],
+  "attendees": ["Operator A", "Crew Lead B", "Apprentice C"],
+  "notes": "Toolbox talk held. All signed attendance. Photo of deficient guardrail taken.",
+  "media_hashes": ["b2c3d4e5f6789012345678901234567890abcdef1234567890abcdef12345678"],
+  "sealed_at": "2026-11-15T08:00:00Z",
+  "tool": "SafetySeal/0.1.0"
+}
