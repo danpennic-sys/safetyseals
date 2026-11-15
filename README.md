@@ -38,7 +38,7 @@ Expected: **PASS**.
 | Command   | $169  | + batch mode + CSV/HTML export + reseller rights |
 | Agency    | $449  | + white-label + multi-site key management |
 
-**Buy Operator Pack (test mode):** [Stripe link to be added]
+**Buy Operator Pack (test mode):** https://buy.stripe.com/test_5kQeVc951gRG1T2dcYew808  
 Contact danpennic@gmail.com for production / other SKUs.  
 Repo: https://github.com/danpennic-sys/safetyseals
 
